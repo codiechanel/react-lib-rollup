@@ -1,3 +1,3 @@
-# @codiechanel/codie-ui
+# react-lib-rollup
 
-Personal component library
+Just an example of making a react library using rollup.
